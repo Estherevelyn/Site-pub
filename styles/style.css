@@ -29,6 +29,7 @@
     left: 0;
     height: 60px;
     font-family: var(--fonte-secundaria);
+    border-bottom: 5px solid #00322D;
 }
 
 .cabecalho__logotipo {
