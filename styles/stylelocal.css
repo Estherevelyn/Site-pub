@@ -82,52 +82,10 @@ body {
     background-color: #00211D;
 }
 
-
-
-
-h1{
+.local{
   text-align: center;
   color: var(--cor-terciaria);
-  font-size: 50px;
+  font-size: 30px;
   display: inline-block;         
-  border-bottom: 5px solid var(--cor-terciaria); 
- padding: 0 20px 10px 20px; 
-  
  
 }
-
-
-.principais{
-    color: #F5F5F7;
-    font-size: 25px;
-    font-weight: bold;
-    
-}
-table {
-    margin: 0 auto;
-    width: 1000px;
-    border-collapse: collapse;
-    
-}
-
-td, th {
-    /* border-right: 2px solid #537D5D; */
-    border-bottom: 2px solid #537D5D;
-    padding: 20px;
-}
-
-.container {
-    color: var(--cor-terciaria);
-   display: flex;
-    justify-content: center;
-}
-
-.happy_hour_footer {
-  padding: 5px;
-  text-align: center;
-  font-weight: bold;
-  color: #EDF4C2; 
-  font-size: 1.1rem;
-  border-top: 2px solid var(--cor-terciaria);
-}
-
